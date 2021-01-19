@@ -2,7 +2,7 @@
 
 Library needed :
 
-express : Node.js server.
+express : Node.js server.\n
 mongoose : Query mongoDB.
 multer : A middleware for handling multipart/form-data (upload file).
 nodemon : Automatically restart server when any change occurs.
